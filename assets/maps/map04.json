@@ -1,0 +1,32 @@
+{ "frames": {
+   "idle 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 800, "h": 600 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 800, "h": 600 },
+    "sourceSize": { "w": 800, "h": 600 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.18",
+  "image": "map04.png",
+  "format": "RGBA8888",
+  "size": { "w": 800, "h": 600 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Building", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 386, "y": 54, "w": 209, "h": 45 } }] },
+   { "name": "Building", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 396, "y": 168, "w": 201, "h": 39 } }] },
+   { "name": "Building", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 164, "y": 94, "w": 87, "h": 177 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map00", "keys": [{ "frame": 0, "bounds": {"x": 16, "y": 579, "w": 768, "h": 21 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map11", "keys": [{ "frame": 0, "bounds": {"x": 783, "y": -1, "w": 18, "h": 601 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map10", "keys": [{ "frame": 0, "bounds": {"x": -3, "y": -2, "w": 21, "h": 604 } }] }
+  ]
+ }
+}

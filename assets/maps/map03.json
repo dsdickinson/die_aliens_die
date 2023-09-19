@@ -1,0 +1,36 @@
+{ "frames": {
+   "idle 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 800, "h": 600 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 800, "h": 600 },
+    "sourceSize": { "w": 800, "h": 600 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.18",
+  "image": "map03.png",
+  "format": "RGBA8888",
+  "size": { "w": 800, "h": 600 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "Building5", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 534, "y": 63, "w": 136, "h": 154 } }] },
+   { "name": "Building3", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 336, "y": 237, "w": 91, "h": 178 } }] },
+   { "name": "Tree1:Sit", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 72, "y": 69, "w": 64, "h": 52 } }] },
+   { "name": "Building4", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 561, "y": 360, "w": 181, "h": 142 } }] },
+   { "name": "Building1", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 78, "y": 342, "w": 175, "h": 178 } }] },
+   { "name": "Building2:Tall", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 201, "y": 72, "w": 55, "h": 154 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map06", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 8, "h": 600 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map05", "keys": [{ "frame": 0, "bounds": {"x": 792, "y": 0, "w": 8, "h": 600 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map00", "keys": [{ "frame": 0, "bounds": {"x": 8, "y": 0, "w": 784, "h": 8 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map08", "keys": [{ "frame": 0, "bounds": {"x": 8, "y": 592, "w": 784, "h": 8 } }] }
+  ]
+ }
+}

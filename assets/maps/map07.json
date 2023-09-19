@@ -1,0 +1,28 @@
+{ "frames": {
+   "idle 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 800, "h": 600 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 800, "h": 600 },
+    "sourceSize": { "w": 800, "h": 600 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.18",
+  "image": "map07.png",
+  "format": "RGBA8888",
+  "size": { "w": 800, "h": 600 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map08", "keys": [{ "frame": 0, "bounds": {"x": 792, "y": 0, "w": 8, "h": 600 } }] },
+   { "name": "SceneExit", "color": "#0000ffff", "data": "assets/maps/map06", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 792, "h": 8 } }] }
+  ]
+ }
+}
